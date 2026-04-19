@@ -45,7 +45,7 @@ It detects common security issues and generates professional audit reports with 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WebAuditX.git
+git clone https://github.com/mithun-cmd/WebAuditX.git
 cd WebAuditX
 
 pip install -r requirements.txt
