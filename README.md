@@ -76,3 +76,19 @@ cd WebAuditX
 pip install -r requirements.txt
 
 python app.py
+
+---
+
+⚠️ Disclaimer
+
+This tool is intended for educational purposes and authorized security testing only.
+Do not use it on systems without permission.
+
+📌 Future Improvements
+CVSS-based scoring
+Advanced vulnerability detection
+Async scanning engine
+API support
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
