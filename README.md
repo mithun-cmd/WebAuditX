@@ -68,8 +68,11 @@ WebAuditX demonstrates:
 
 ## 🚀 Getting Started
 
-git clone https://github.com/mithun-cmd/WebAuditX.git 
+git clone https://github.com/mithun-cmd/WebAuditX.git
+
 cd WebAuditX
 
+
 pip install -r requirements.txt
+
 python app.py
